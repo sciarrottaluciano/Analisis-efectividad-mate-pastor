@@ -1,4 +1,4 @@
-# Projects
+# Analysis of the effectiveness of the Scholar's Mate.
 This project analyzes the effectiveness of the Scholar’s Mate in real chess games,
 using an empirical, data-driven approach.
 
