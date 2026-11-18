@@ -8,4 +8,4 @@ tasa de éxito del Mate Pastor cuando lo juegan las blancas, segmentada por rang
 
 El proyecto incluye la limpieza de datos, reglas de clasificación para identificar los
 intentos válidos y una visualización construida en Power BI. La documentación
-metodológica completa está disponible en la carpeta /documentation.
+metodológica completa está disponible en la carpeta /documentacion.
