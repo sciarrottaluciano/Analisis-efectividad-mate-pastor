@@ -1,11 +1,11 @@
-# Analysis of the effectiveness of the Scholar's Mate.
-This project analyzes the effectiveness of the Scholar’s Mate in real chess games,
-using an empirical, data-driven approach.
+# Análisis de la efectividad del Mate Pastor
 
-Based on a large dataset of games from Lichess.org, the analysis focuses on the success
-rate of the Scholar’s Mate when played by White, segmented by ELO rating ranges.
+Este proyecto analiza la efectividad del Mate Pastor en partidas reales de ajedrez,
+con un enfoque empírico basado en datos.
 
-The project includes data cleaning, classification rules to identify valid attempts,
-and a visualization built in Power BI. Full methodological documentation is available
-in Spanish in the /documentation folder.
+A partir de un amplio conjunto de partidas de Lichess.org, el análisis se centra en la
+tasa de éxito del Mate Pastor cuando lo juegan las blancas, segmentada por rangos de ELO.
 
+El proyecto incluye la limpieza de datos, reglas de clasificación para identificar los
+intentos válidos y una visualización construida en Power BI. La documentación
+metodológica completa está disponible en la carpeta /documentation.
