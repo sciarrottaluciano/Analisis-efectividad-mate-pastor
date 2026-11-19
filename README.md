@@ -9,6 +9,14 @@ A partir de un amplio conjunto de partidas de Lichess.org, el análisis se centr
 tasa de éxito del Mate Pastor cuando lo juegan las blancas, segmentada por rangos de ELO.
 
 El proyecto incluye la limpieza de datos, reglas de clasificación para identificar los
-intentos válidos y una visualización construida en Power BI. La documentación
-metodológica completa está disponible en
+intentos válidos y una visualización construida en Power BI.
+
+## Principales resultados
+
+- El Mate Pastor tiene una efectividad del 4,4 %: funciona en 1 de cada 23 intentos.
+- La efectividad cae del 7,0 % en ELO 1000 al 3,2 % en ELO 1700.
+- Intentarlo no conviene: cuando el ataque se defiende, las blancas ganan solo el 45,0 %
+  de las partidas, frente al 49,8 % habitual, y la ventaja pasa a las negras.
+
+La documentación metodológica completa está disponible en
 [documentacion/analisis-efectividad-mate-pastor.pdf](documentacion/analisis-efectividad-mate-pastor.pdf).
