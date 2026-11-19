@@ -18,5 +18,4 @@ intentos válidos y una visualización construida en Power BI.
 - Intentarlo no conviene: cuando el ataque se defiende, las blancas ganan solo el 45,0 %
   de las partidas, frente al 49,8 % habitual, y la ventaja pasa a las negras.
 
-La documentación metodológica completa está disponible en
-[documentacion/analisis-efectividad-mate-pastor.pdf](documentacion/analisis-efectividad-mate-pastor.pdf).
+La metodología completa está disponible en la [documentación del análisis (PDF)](documentacion/analisis-efectividad-mate-pastor.pdf).
