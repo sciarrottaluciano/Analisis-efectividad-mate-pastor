@@ -1,6 +1,6 @@
 # Análisis de la efectividad del Mate Pastor
 
-aca va el png
+![Dashboard del análisis](documentacion/dashboard.png)
 
 Este proyecto analiza la efectividad del Mate Pastor en partidas reales de ajedrez,
 con un enfoque empírico basado en datos.
